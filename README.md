@@ -7,4 +7,5 @@
 
 # How to use
 IMPORTANT: before first use run `./setup.sh`
+
 Copy your file (only do one at a time) to the programe folder then run `./compress.sh`.
