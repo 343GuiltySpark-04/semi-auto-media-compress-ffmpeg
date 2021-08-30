@@ -2,3 +2,4 @@
 ./out
 ./original
 ./release/*
+*.zip*
